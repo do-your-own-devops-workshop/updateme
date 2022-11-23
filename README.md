@@ -6,3 +6,4 @@
   - Chula
 - Kavin
 - Toey kub 6/4
+- Puth CPE35-1
