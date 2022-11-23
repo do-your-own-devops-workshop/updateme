@@ -1,4 +1,4 @@
-# Jiratchaya Phinyodom - updateme
+# updateme
 
 - Benz test
 - Phukan test
@@ -10,3 +10,4 @@
 - Tan
 - nwtkd hiw pizza
 - God :)
+- Pango
