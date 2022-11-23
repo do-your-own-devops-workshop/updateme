@@ -6,4 +6,4 @@
   - Chula
 - Kavin
 - Toey kub 6/4
-- poom
+- poom gg
